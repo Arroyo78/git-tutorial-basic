@@ -6,4 +6,6 @@ Agrego esta linea de texto desde el editor en linea para hacer una Pull desde Gi
 
 Este texto fue agregado para hacer uso de github desktop
 
+Este mensaje es para ejemplificar el uso de Visual Studio Code y Source Control.
+
 Agregado para comprobar el GitHub desde terminal
