@@ -13,4 +13,13 @@ Este mensaje es para ejemplificar el uso de la extensión de GitHub en Visual St
 Agregado para comprobar el GitHub desde terminal
 
 
+
+
+
+
+
+
+
+
+
 Este es mi primer cambio en Git desde MAC
