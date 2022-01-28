@@ -22,4 +22,4 @@ Agregado para comprobar el GitHub desde terminal
 
 
 
-Este es mi primer cambio en Git desde MAC
+Este es mi primer cambio en Git desde MAC2
