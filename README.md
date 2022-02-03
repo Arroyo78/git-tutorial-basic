@@ -12,4 +12,12 @@ Este mensaje es para ejemplificar el uso de la extensión de GitHub en Visual St
 
 Agregado para comprobar el GitHub desde terminal
 
+<<<<<<< HEAD
 Este es mi primer cambio en Git desde la MAC
+=======
+
+Este es mi primer cambio en Git desde MAC
+>>>>>>> 749e4200e46e5a96d15b34151f5d48d848ed3b47
+
+
+Este texto fue agregado desde github desktop MacMini
